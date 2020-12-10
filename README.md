@@ -35,8 +35,6 @@ Primero debes tener un usuario de github
 
 En ese momento tendrás listo el sitio `https://{username}.github.io`
 
-Esta es mi Página personal - [Juan Urquiza](https://juanitourquiza.github.io/)
-
 Post sobre como se hizo la página aqui: http://hackeruna.com/2019/02/14/como-hacer-tu-pagina-personal-en-github/
 
 ## License
